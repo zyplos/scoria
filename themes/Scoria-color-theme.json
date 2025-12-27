@@ -245,7 +245,7 @@
         "editor.lineHighlightBackground": "#000",
         "editor.lineHighlightBorder": "#242424",
         // "[========": {},
-        "editorWatermark.foreground": "#ff3e3e",
+        // "editorWatermark.foreground": "#ff3e3e",
         // "[=========": {},
         "editorUnicodeHighlight.border": "#fff",
         "editorUnicodeHighlight.background": "#ffffff20",
